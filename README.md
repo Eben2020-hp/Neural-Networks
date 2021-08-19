@@ -1,4 +1,4 @@
-# Neural Networks Scratch
+# Neural Networks From Scratch
 
 
 ## What are Neural Networks?
