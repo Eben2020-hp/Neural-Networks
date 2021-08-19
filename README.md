@@ -21,6 +21,7 @@ The above figure has 3 main parts:
 | Soma | Net Input |
 | Axon | Output |
 
+---
 
 In this repository we will be exploring the basic idea on how a Neural Network is being built with the help of **Numpy** rather than the other prominent libraries like **PyTorch** or **Keras**.
 
