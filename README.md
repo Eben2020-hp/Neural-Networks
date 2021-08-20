@@ -30,4 +30,4 @@ In this repository we will be exploring the basic idea on how a Neural Network i
 | Day | Topic | URL | Concept |
 | --- | --- | --- | --- |
 | 1 | Building a Single Layer Feed Forward Neural Network (One Output Neuron) | https://github.com/Eben2020-hp/Neural-Networks/tree/main/Day%201 | <img src="https://user-images.githubusercontent.com/66016994/130211321-ae1cd29b-bb67-4f95-b1a0-d4f0589d6d5a.jpg" width="300" height="100" /> | 
-| 2 | Building a Single Layer Feed Forward Neural Network (Three Output Neurons) | https://github.com/Eben2020-hp/Neural-Networks/tree/main/Day%201 | <img src="https://user-images.githubusercontent.com/66016994/130211643-c5304188-4a4c-4b23-9db4-733c888a035d.png" width="300" height="100" /> | 
+| 2 | Building a Single Layer Feed Forward Neural Network (Three Output Neurons) | https://github.com/Eben2020-hp/Neural-Networks/tree/main/Day%202 | <img src="https://user-images.githubusercontent.com/66016994/130211643-c5304188-4a4c-4b23-9db4-733c888a035d.png" width="300" height="100" /> | 
