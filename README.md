@@ -33,3 +33,4 @@ In this repository we will be exploring the basic idea on how a Neural Network i
 | 2 | Building a Single Layer Feed Forward Neural Network (Three Output Neurons) | https://github.com/Eben2020-hp/Neural-Networks/tree/main/Day%202 | <img src="https://user-images.githubusercontent.com/66016994/130211643-c5304188-4a4c-4b23-9db4-733c888a035d.png" width="300" height="100" /> | 
 | 3 | Understanding Dot Products and Basic Terminologies | https://github.com/Eben2020-hp/Neural-Networks/tree/main/Day%203 |  | 
 | 4 | Introduction to Batches and Hidden Layers | https://github.com/Eben2020-hp/Neural-Networks/tree/main/Day%204 |  | 
+| 5 | Understanding ReLU Activation Function | https://github.com/Eben2020-hp/Neural-Networks/tree/main/Day%205 |  <img src="https://miro.medium.com/max/1838/1*LiBZo_FcnKWqoU7M3GRKbA.png" width="300" height="100" /> |
